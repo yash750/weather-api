@@ -1,4 +1,4 @@
-# Weather API PRD
+# Weather API
 
 ## Overview
 This project provides a small RESTful API built with Node.js and Express to retrieve current weather information from the OpenWeather service.
